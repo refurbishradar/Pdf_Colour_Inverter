@@ -2,3 +2,4 @@
 Inverts all the colors in a pdf. Enjoy dark mode to the fullest.
 
 Do `pip install -r requirements.txt`
+You might want to use a virtual env
